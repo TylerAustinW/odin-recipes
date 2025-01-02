@@ -1,4 +1,4 @@
-# Tyler's Recipe Collection
+# Tyler's "TheOdinProject" Recipe Page
 
 A simple recipe website showcasing classic dishes with detailed instructions and ingredients. Built with HTML5, this project demonstrates fundamental web development concepts including semantic HTML structure, navigation between pages, and proper documentation.
 
